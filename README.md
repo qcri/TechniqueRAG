@@ -1,6 +1,19 @@
 # TechniqueRAG
 TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text
 
+# Citation
+
+```
+@misc{lekssays2025techniqueragretrievalaugmentedgeneration,
+      title={TechniqueRAG: Retrieval Augmented Generation for Adversarial Technique Annotation in Cyber Threat Intelligence Text}, 
+      author={Ahmed Lekssays and Utsav Shukla and Husrev Taha Sencar and Md Rizwan Parvez},
+      year={2025},
+      eprint={2505.11988},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2505.11988}, 
+}
+```
 
 # Getting started
 
